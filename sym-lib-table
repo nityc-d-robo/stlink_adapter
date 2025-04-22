@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "3220-14-0100-00")(type "KiCad")(uri "${KIPRJMOD}/ul_3220-14-0100-00/2025-04-22_10-08-26.kicad_sym")(options "")(descr ""))
+  (lib (name "BHC-CR123A")(type "KiCad")(uri "${KIPRJMOD}/ul_BHC-CR123A/2025-04-22_10-57-00.kicad_sym")(options "")(descr ""))
+  (lib (name "BU33SD5WG_TR")(type "KiCad")(uri "${KIPRJMOD}/BU33SD5WG_TR/2025-04-22_11-02-43.kicad_sym")(options "")(descr ""))
+)

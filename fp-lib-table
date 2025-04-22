@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "3220-14-0100-00")(type "KiCad")(uri "${KIPRJMOD}/ul_3220-14-0100-00/footprints.pretty")(options "")(descr ""))
+  (lib (name "BU33SD5WG_TR")(type "KiCad")(uri "${KIPRJMOD}/BU33SD5WG_TR/footprints.pretty")(options "")(descr ""))
+  (lib (name "BHC-CR123A")(type "KiCad")(uri "${KIPRJMOD}/ul_BHC-CR123A/footprints.pretty")(options "")(descr ""))
+)
